@@ -27,10 +27,10 @@ const siteProps = {
   name: "Drashti Shah",
   title: "Web Designer & Content Creator",
   email: "drashtisanjayshah@gmail.com",
-  gitHub: "https://github.com/DrashtiSanjayShah",
-  instagram: "https://www.instagram.com/thatonegirlinb.tech/",
-  linkedIn: "https://www.linkedin.com/in/drashtisanjayshah/",
-  youTube: "https://www.youtube.com/@thatonegirlinbtech",
+  gitHub: "DrashtiSanjayShah",
+  instagram: "thatonegirlinb.tech/",
+  linkedIn: "drashtisanjayshah/",
+  youTube: "@thatonegirlinbtech",
 };
 
 const primaryColor = "#4E567E";
